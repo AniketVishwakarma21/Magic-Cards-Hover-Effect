@@ -1,4 +1,4 @@
-# Magic Wand Reveal
+# Magic Cards Hover Effect
 
 ![Alt text](ScreenShot/S1.png)
 
